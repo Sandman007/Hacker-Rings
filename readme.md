@@ -10,4 +10,4 @@
 
 That's all...
 
-![alt tag](https://i.imgur.com/XDP0BNe.png)
+![Screenshot]\(https://i.imgur.com/XDP0BNe.png)
