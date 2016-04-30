@@ -15,3 +15,5 @@
 4) Start the Conky manager and enabled Hacker_Rings theme 
 
 That's all...
+
+![Screenshot](https://i.imgur.com/XDP0BNe.png?raw=true)
