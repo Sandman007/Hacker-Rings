@@ -9,3 +9,5 @@
 4) Start the Conky manager and enabled Hacker_Rings theme 
 
 That's all...
+
+![alt tag](https://i.imgur.com/XDP0BNe.png)
