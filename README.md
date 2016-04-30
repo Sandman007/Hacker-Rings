@@ -5,7 +5,7 @@
 ** Installation Instructions **
 ******************************/
 
-1) Unzip the file NSA_Red.zip
+1) Unzip the file Hacker-Rings-Master.zip
 
 2) Install Fonts
 
